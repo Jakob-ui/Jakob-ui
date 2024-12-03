@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakob</h1>
 
-- 🔭 I’m currently working on [HA MQTT Esp32 Window Sensor]([https://github.com/Jakob-ui/Samay_Game](https://github.com/Jakob-ui/HA-Esp32-Window-Sensor))
+- 🔭 I’m currently working on nothing in particular
 
 - 📫 How to reach me **jakob.laschober@gmail.com**
 
